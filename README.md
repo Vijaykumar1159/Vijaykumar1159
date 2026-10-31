@@ -21,7 +21,7 @@ A Streamlit app that helps you prepare for ML / Data Science interviews from you
 - LangGraph orchestration, with all data access through MCP servers
 - Progress tracking in SQLite and a "Smart pick" for weak topics
 
-### [PowerPulse: electricity demand forecasting](https://github.com/Vijaykumar1159/Weather_Forecasting)
+### [PowerPulse: electricity demand forecasting](https://github.com/Vijaykumar1159/PowerPulse)
 Forecasts electricity demand with a **PyTorch RNN** model, served through a **FastAPI** REST API with a web frontend.
 
 ## 📫 Contact
